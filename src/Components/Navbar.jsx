@@ -3,8 +3,8 @@ import { BsPerson } from "react-icons/bs"
 import { BiCart } from "react-icons/bi"
 import { AiOutlineMenu } from "react-icons/ai"
 import Slider from "./Slider"
-import MobileSlider from "./Mobileslider"
-import { SliderContextFunction } from "../Context/SliderContext";
+import MobileSlider from "./MobileSlider"
+import { SliderContextFunction } from "../Context/SliderContext.jsx";
 import { useNavigate } from "react-router-dom"
 import { useState, useEffect } from "react"
 
