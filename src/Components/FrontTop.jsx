@@ -16,7 +16,7 @@ function FrontTop() {
 					<input type="text" placeholder="Search Property" />
 					<button>Search</button>
 				</div>
-				<img src="./img (1).png" alt="bck" />
+				<img src="./img (1).webp" alt="bck" />
 			</div>
 		</div>
 	)

@@ -11,7 +11,7 @@ function Products2() {
 				</span>
 				<button>Learn More</button>
 				
-				<img src="./img (11).png" alt="imags" />
+				<img src="./img (11).webp" alt="imags" />
 
 			</div>
 
@@ -33,7 +33,7 @@ function Products2() {
 					</div>
 				</div>
 
-				<img src="./img (10).png" alt ="imags" />
+				<img src="./img (10).webp" alt ="imags" />
 			</div>
 
 		</div>

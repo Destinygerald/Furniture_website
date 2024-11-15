@@ -29,7 +29,7 @@ function Articles() {
 				<span>The best furniture comes from Lalasia</span>
 				<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit donec consectetur semper.</span>
 				<div>
-					<img src="img (2).png" alt="imags" />
+					<img src="img (2).webp" alt="imags" />
 					<div className="arrows-container">
 						<span><BsArrowLeft /></span>
 						<span><BsArrowRight /></span>
@@ -45,9 +45,9 @@ function Articles() {
 			</div>
 
 			<div className="article-right">
-				<ArticleCard imgSrc="./img (8).png" topic="Tips and Trick" title="6 ways to give your home minimalistic vibes" desc="Lorem ipsum dolor sit amet, consectetur." writer="Jeremy Jean" date="Friday, 1 April 2023" writerImg="./Ellipse 1.png" />
-				<ArticleCard imgSrc="./img (9).png" topic="Tips and Trick" title="How to make your interiors cooler and more stylish" desc="Lorem ipsum dolor sit amet, consectetur." writer="Michael Augus" date="Friday, 1 April 2023" writerImg="./Ellipse 28.png" />
-				<ArticleCard imgSrc="./img (3).png" topic="Tips and Trick" title="Elements to add character to your space" desc="Lorem ipsum dolor sit amet, consectetur." writer="Kim Guarah" date="Friday, 1 April 2023"  writerImg="./Ellipse 25.png" />
+				<ArticleCard imgSrc="./img (8).webp" topic="Tips and Trick" title="6 ways to give your home minimalistic vibes" desc="Lorem ipsum dolor sit amet, consectetur." writer="Jeremy Jean" date="Friday, 1 April 2023" writerImg="./Ellipse 1.webp" />
+				<ArticleCard imgSrc="./img (9).webp" topic="Tips and Trick" title="How to make your interiors cooler and more stylish" desc="Lorem ipsum dolor sit amet, consectetur." writer="Michael Augus" date="Friday, 1 April 2023" writerImg="./Ellipse 28.webp" />
+				<ArticleCard imgSrc="./img (3).webp" topic="Tips and Trick" title="Elements to add character to your space" desc="Lorem ipsum dolor sit amet, consectetur." writer="Kim Guarah" date="Friday, 1 April 2023"  writerImg="./Ellipse 25.webp" />
 			</div>
 		</div>
 	)
